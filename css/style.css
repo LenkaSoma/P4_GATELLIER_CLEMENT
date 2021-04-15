@@ -885,8 +885,8 @@ h4 {
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding:
-            env(safe-area-inset-left, 0)
-            env(safe-area-inset-right, 20);
+            env(safe-area-inset-left, 0px)
+            env(safe-area-inset-right, 20px);
     }
 }
 
